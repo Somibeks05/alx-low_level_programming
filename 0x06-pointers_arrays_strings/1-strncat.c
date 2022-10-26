@@ -24,3 +24,6 @@ count++;
 count2++;
 }
 return (dest);
+
+_putchar('\n');
+}
